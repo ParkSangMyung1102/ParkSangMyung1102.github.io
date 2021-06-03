@@ -95,14 +95,14 @@ analytics:
 # Site Author
 author:
   name             : "박상명"
-  avatar           : "/assets/images/dog.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/MOOON.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "학생"
   location         : "대한민국, 서울"
   email            : "sangmyung1102@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:sangmyung1102@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
