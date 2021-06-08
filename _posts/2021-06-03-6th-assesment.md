@@ -128,6 +128,7 @@ if (d==1)
 #include <stdio.h>
 int main() {
   char a,b;
+  b = 'r';
   printf("가위 바위 보 중 하나를 선택하시오\n");
   scanf("%s", &a);
   if (a==b) {
